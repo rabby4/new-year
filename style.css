@@ -36,3 +36,31 @@ button.intro-btn {
     border: none;
     border-radius: 5px;
 }
+.prev-years-detail{
+    display: flex;
+    column-gap: 50px;
+    align-items: center;
+    justify-content: space-between;
+    margin: 100px 0px;
+}
+.details{
+    width: 400px;
+}
+h2.detail-heading {
+    font-size: 45px;
+}
+p.detail-description {
+    color: #444;
+    margin: 25px 0px;
+    line-height: 25px;
+}
+.details ul{
+    list-style-type: none;
+}
+.details ul li {
+    margin-bottom: 10px;
+}
+.details ul li i{
+    margin-right: 10px;
+    color: #16D887;
+}
